@@ -1,5 +1,5 @@
 # Dart
-I this Repository i will upload my Dart basic to advanced tasks :) 
+I this Repository i will upload Dart Lessons and my Dart basic to advanced tasks :) 
 <br>  
 
 Developer: Ahmed Irfan
