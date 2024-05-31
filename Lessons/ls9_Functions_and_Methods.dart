@@ -1,4 +1,4 @@
-// Lesson 10: Functions and Methods in Dart
+// Lesson 9: Functions and Methods in Dart
 
 // What are Functions?🤔
 // Functions are a set of statements that perform a specific task. They are reusable blocks of code.
