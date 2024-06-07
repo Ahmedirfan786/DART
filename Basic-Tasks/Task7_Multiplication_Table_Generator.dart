@@ -13,7 +13,7 @@ int? endpoint=int.parse(stdin.readLineSync()!);
 
 for(var i=startpoint; i<=endpoint; i++){
   var multiply=timestable*i;
-  print("$timestable * $i = $multiply")
+  print("$timestable * $i = $multiply");
 }
 
 }
