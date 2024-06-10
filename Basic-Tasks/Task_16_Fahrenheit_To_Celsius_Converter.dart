@@ -2,6 +2,8 @@ import 'dart:io';
 
 void main(){
   // °C = (°F - 32) × 5/9
+
+   print("Enter temprature in fahrenheit");
   double? Fahrenheit=double.parse(stdin.readLineSync()!);
 
   double Celsius=(Fahrenheit -32)*5/9;
