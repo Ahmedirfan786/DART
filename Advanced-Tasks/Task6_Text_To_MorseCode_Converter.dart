@@ -2,7 +2,7 @@ import 'dart:io';
 
 void main() {
   print('Enter a message to translate to Morse code:');
-  String input = stdin.readLineSync().toLowerCase();
+  String input = stdin.readLineSync()!.toLowerCase();
 
   String morseCode = textToMorse(input);
   print('Message in Morse code: $morseCode');

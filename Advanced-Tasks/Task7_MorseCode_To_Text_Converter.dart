@@ -2,7 +2,7 @@ import 'dart:io';
 
 void main() {
   print('Enter Morse code to translate to English:');
-  String input = stdin.readLineSync().trim();
+  String input = stdin.readLineSync()!.trim();
 
   String englishText = morseToText(input);
   print('Message in English: $englishText');
