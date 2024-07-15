@@ -1,0 +1,102 @@
+Dart 100 Interview Questions
+
+1.	What is Dart?
+2.	Why was Dart created?
+3.	How does Dart compare to JavaScript?
+4.	What are the main features of Dart?
+5.	Explain the concept of a "Future" in Dart.
+6.	What is a "Stream" in Dart?
+7.	How do you handle asynchronous programming in Dart?
+8.	What is the difference between Future and Stream in Dart?
+9.	Explain the use of the async and await keywords in Dart.
+10.	What is a FutureOr in Dart?
+11.	How do you create a class in Dart?
+12.	What is a mixin in Dart?
+13.	How do you use mixins in Dart?
+14.	Explain the concept of null safety in Dart.
+15.	What is a null aware operator in Dart?
+16.	How do you handle exceptions in Dart?
+17.	What is a try-catch block in Dart?
+18.	Explain the use of the finally block in Dart.
+19.	How do you define a function in Dart?
+20.	What is a named parameter in Dart?
+21.	How do you use named parameters in Dart?
+22.	What is a positional parameter in Dart?
+23.	How do you define an optional parameter in Dart?
+24.	Explain the concept of function expressions in Dart.
+25.	How do you create an anonymous function in Dart?
+26.	What is a lambda function in Dart?
+27.	How do you use the => syntax in Dart?
+28.	What is the difference between final and const in Dart?
+29.	How do you create a list in Dart?
+30.	What are the different ways to iterate over a list in Dart?
+31.	How do you create a map in Dart?
+32.	What is a Set in Dart?
+33.	How do you use the List and Map literals in Dart?
+34.	Explain the use of generics in Dart.
+35.	How do you define a generic class in Dart?
+36.	How do you create a singleton in Dart?
+37.	What is a factory constructor in Dart?
+38.	How do you use the this keyword in Dart?
+39.	Explain the concept of inheritance in Dart.
+40.	How do you override a method in Dart?
+41.	What is an abstract class in Dart?
+42.	How do you define an interface in Dart?
+43.	What is the difference between an abstract class and an interface in Dart?
+44.	Explain the use of the @override annotation in Dart.
+45.	How do you use the super keyword in Dart?
+46.	What is the is operator in Dart?
+47.	How do you use the as operator in Dart?
+48.	What is a typedef in Dart?
+49.	How do you define a type alias in Dart?
+50.	Explain the concept of metadata in Dart.
+51.	What are some commonly used annotations in Dart?
+52.	How do you use the @Deprecated annotation in Dart?
+53.	How do you define a library in Dart?
+54.	What is the import statement in Dart?
+55.	How do you use the export statement in Dart?
+56.	Explain the concept of packages in Dart.
+57.	How do you create a package in Dart?
+58.	What is the pubspec.yaml file in Dart?
+59.	How do you use the pub tool in Dart?
+60.	What is the dartfmt tool in Dart?
+61.	How do you use the dartanalyzer tool in Dart?
+62.	What is the dartdoc tool in Dart?
+63.	Explain the concept of isolates in Dart.
+64.	How do you create an isolate in Dart?
+65.	What is the difference between an isolate and a thread in Dart?
+66.	How do you communicate between isolates in Dart?
+67.	What is the Isolate.spawn function in Dart?
+68.	How do you use the ReceivePort and SendPort classes in Dart?
+69.	What is the Isolate.exit function in Dart?
+70.	Explain the concept of zones in Dart.
+71.	How do you create a zone in Dart?
+72.	What is the runZoned function in Dart?
+73.	How do you use the Zone.current property in Dart?
+74.	What is the ZoneSpecification class in Dart?
+75.	How do you handle uncaught errors in Dart?
+76.	What is the Error class in Dart?
+77.	How do you create a custom exception in Dart?
+78.	What is the StackTrace class in Dart?
+79.	How do you print a stack trace in Dart?
+80.	Explain the concept of reflection in Dart.
+81.	How do you use the dart:mirrors library in Dart?
+82.	What is the MirrorSystem class in Dart?
+83.	How do you use the ClassMirror class in Dart?
+84.	What is the InstanceMirror class in Dart?
+85.	How do you invoke a method using reflection in Dart?
+86.	How do you get the list of methods of a class using reflection in Dart?
+87.	How do you get the list of fields of a class using reflection in Dart?
+88.	What is the Symbol class in Dart?
+89.	How do you use the reflect function in Dart?
+90.	Explain the concept of type inference in Dart.
+91.	How do you use the var keyword in Dart?
+92.	What is the dynamic type in Dart?
+93.	How do you use the Object type in Dart?
+94.	Explain the use of the covariant keyword in Dart.
+95.	What is the Function type in Dart?
+96.	How do you create a callable class in Dart?
+97.	What is the Comparable interface in Dart?
+98.	How do you implement the compareTo method in Dart?
+99.	What is the Iterator interface in Dart?
+100.	How do you use the Iterable class in Dart?
